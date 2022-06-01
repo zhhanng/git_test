@@ -1,10 +1,4 @@
-hello txt
-
-first update
-second update
-third update
-fourth update
-dev add
+ev add
 ttttt
 dev add1
 test1 collision
